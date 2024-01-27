@@ -1,18 +1,23 @@
 ### Hi there 👋, I'm Tuba AKBAS
-#### Data Science
-Hi There! I'm Tuba, passionate about Data Science and Machine Learning. 
-I love extracting insights from large datasets, building models, and developing data-driven solutions. 
-I share my projects on my Github profile. 
-I'm always open to learning new technologies and finding solutions to data-centric problems.
 
-Skills: PYTHON/ TENSORFLOW/ KERAS/ NUMPY/ SCIKIT-LEARN
+<h3 align="center">Data Scientist and Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on this page. 
+![MasterHead](https://img.edvido.com/grafik-tasarim-20f64.jpg)
 
+🌱 Hi There! I'm Tuba, passionate about Data Science and Machine Learning. I love extracting insights from large datasets, building models, and developing data-driven solutions. I share my projects on my Github profile.  I'm always open to learning new technologies and finding solutions to data-centric problems.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tubaakbas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tuba-akbas//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@tubaakbas)  
+<h3 align="left">Connect With Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tuba-akbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuba-akbas" height="30" width="40" /></a>
+<a href="https://medium.com/@tubaakbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tubaakbas" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tubaakbas)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tubaakbas)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tubaakbas&show_icons=true&locale=en&layout=compact" alt="tubaakbas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tubaakbas&show_icons=true&locale=en" alt="tubaakbas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tubaakbas&" alt="tubaakbas" /></p>
 
