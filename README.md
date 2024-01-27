@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Scientist and Machine Learning Enthusiast</h3>
 
-![MasterHead](https://img.edvido.com/grafik-tasarim-20f64.jpg)
+![MasterHead](https://talentgrid.io/wp-content/uploads/2022/06/github-social.png)
 
 🌱 Hi There! I'm Tuba, passionate about Data Science and Machine Learning. I love extracting insights from large datasets, building models, and developing data-driven solutions. I share my projects on my Github profile.  I'm always open to learning new technologies and finding solutions to data-centric problems.
 
